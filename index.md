@@ -1,4 +1,3 @@
-<img src="io.jpg" height="130" width="100">
 
 [theofranquet@outlook.com](mailto:theofranquet@outlook.com) 
 
