@@ -11,14 +11,14 @@ I am currently an Electrical and Electronic Engineering (EEE) undergraduate stud
 ### :electric_plug: Hardware
 - VHDL programming: 
 
-### Firmware & Software
+### :computer: Firmware & Software
 - Real time digital signal processing: Speech enhancement project
 - Embedded system using MQTT connectivity protocol: Connected greenhouse climate monitoring and control device (prototype)
 - Embedded system for high precision motor control
 - Connected thermostat prototyping (Head of team of 7 students)
 
 
-### Research
+### :mag: Research
 I have undergone undergraduate research in the summer of 2016 at Imperial College London's Control and Power research group on future horizon velocity estimation using artifical neural networks:
 
 - Comparative study of various training methods for the application
@@ -27,7 +27,7 @@ I have undergone undergraduate research in the summer of 2016 at Imperial Colleg
 Repo is available here.
 
 
-### Education
+### :mortar_board: Education
 I am one year away of obtaining an Meng in EEE at Imperial College London. Recent courses taken (3rd year) belong to the fields of:
 - Power and Energy Systems
 - Embedded Systems
@@ -35,7 +35,7 @@ I am one year away of obtaining an Meng in EEE at Imperial College London. Recen
 - Control Systems and Linear Algebra
 
 
-### Work Experience
+### :briefcase: Work Experience
 #### Semiconductors Industry
 I have worked 3 months at ST Microelectronics Singapore over the summer of 2015, my work there involved:
 
@@ -51,7 +51,7 @@ My industrial placement, undergone in conjunction with Imperial College London, 
 3. Firmware development for power critical application
 4. Battery state estimation algorithm R&D
 
-### Personal Writing
+### :memo: Personal Writing
 
 
 
