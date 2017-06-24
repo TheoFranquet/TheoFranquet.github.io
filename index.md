@@ -1,6 +1,7 @@
 <img src="io.jpg" height="130" width="100">
 
 [theofranquet@outlook.com](mailto:theofranquet@outlook.com) 
+
 [Curriculum Vitae](/CV.pdf)
 
 
@@ -48,35 +49,16 @@ My industrial placement, undergone in conjunction with Imperial College London, 
 3) Firmware development for power critical application
 4) Battery state estimation algorithm R&D
 
+### Personal Writing
 
 
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://octodex.github.com/images/yaktocat.png)
-```
 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheoFranquet/TheoFranquet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
