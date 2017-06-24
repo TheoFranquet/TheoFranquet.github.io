@@ -1,12 +1,56 @@
-## Welcome to GitHub Pages
+<img src="io.jpg" height="130" width="100">
 
-You can use the [editor on GitHub](https://github.com/TheoFranquet/TheoFranquet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[theofranquet@outlook.com](mailto:theofranquet@outlook.com) 
+[Curriculum Vitae](/CV.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+I am currently an Electrical and Electronic Engineering (EEE) undergraduate student in Imperial College London, with big amitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Hardware
+- VHDL programming: 
+
+### Firmware & Software
+- Real time digital signal processing: Speech enhancement project
+- Embedded system using MQTT connectivity protocol: Connected greenhouse climate monitoring and control device (prototype)
+- Embedded system for high precision motor control
+- Connected thermostat prototyping (Head of team of 7 students)
+
+
+### Research
+I have undergone undergraduate research in the summer of 2016 at Imperial College London's Control and Power research group on future horizon velocity estimation using artifical neural networks:
+
+- Comparative study of various training methods for the application
+- Continuous time operation simulation of the ANN onboard a vehicle
+
+Repo is available here.
+
+
+### Education
+I am one year away of obtaining an Meng in EEE at Imperial College London. Recent courses taken (3rd year) belong to the fields of:
+- Power and Energy Systems
+- Embedded Systems
+- Artifical Intelligence & Machine Learning
+- Control Systems and Linear Algebra
+
+
+### Work Experience
+#### Semiconductors Industry
+I have worked 3 months at ST Microelectronics Singapore over the summer of 2015, my work there involved:
+1) Manufacturing of Bipolar Devices 
+2) Manual device failure analysis
+3) Training material establishement
+
+#### Renewables & Energy Storage Industry
+My industrial placement, undergone in conjunction with Imperial College London, is spent working for 6 months at Natron Energy (formerly Alveo Energy), in Santa Clara, CA. Natron Energy is a battery start up introducing revolutionary low cost energy storage solutions using a new cell technology based on inexpensive Prussian blue analogue electrodes and a sodium-ion electrolyte. My work here includes:
+1) Integral Battery Management System (BMS) development for UPS application
+2) PCB design
+3) Firmware development for power critical application
+4) Battery state estimation algorithm R&D
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,6 +69,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://octodex.github.com/images/yaktocat.png)
 ```
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
