@@ -38,16 +38,18 @@ I am one year away of obtaining an Meng in EEE at Imperial College London. Recen
 ### Work Experience
 #### Semiconductors Industry
 I have worked 3 months at ST Microelectronics Singapore over the summer of 2015, my work there involved:
-1) Manufacturing of Bipolar Devices 
-2) Manual device failure analysis
-3) Training material establishement
+
+1. Manufacturing of Bipolar Devices 
+2. Manual device failure analysis
+3. Training material establishement
 
 #### Renewables & Energy Storage Industry
 My industrial placement, undergone in conjunction with Imperial College London, is spent working for 6 months at Natron Energy (formerly Alveo Energy), in Santa Clara, CA. Natron Energy is a battery start up introducing revolutionary low cost energy storage solutions using a new cell technology based on inexpensive Prussian blue analogue electrodes and a sodium-ion electrolyte. My work here includes:
-1) Integral Battery Management System (BMS) development for UPS application
-2) PCB design
-3) Firmware development for power critical application
-4) Battery state estimation algorithm R&D
+
+1. Integral Battery Management System (BMS) development for UPS application
+2. PCB design
+3. Firmware development for power critical application
+4. Battery state estimation algorithm R&D
 
 ### Personal Writing
 
