@@ -33,6 +33,7 @@ I am one year away of obtaining an Meng in EEE at Imperial College London. Recen
 ```
 Grid scale load flow analysis (Gauss-Seidel method...)
 Fault analysis (Single/Three phase system, Balanced/Unbalanced fault)
+
 ```
 - Embedded Systems
 ```
@@ -43,6 +44,7 @@ Writing efficient and maintainable firmware
 Interupt based firmware (in C)
 Basic control algorithm implementation
 Scheduling and dependency analysis
+
 ```
 - Artifical Intelligence & Machine Learning
 ```
@@ -62,6 +64,7 @@ Feature transformation
 Cross Validation
 SVMs
 PCA
+
 ```
 - Control Systems and Linear Algebra
 ```
@@ -71,6 +74,7 @@ System Trajectory, Motion, Equilibrium and Stability analysis
 Reachability and Controllability
 Observability and Reconstructability
 Design tools
+
 ```
 
 ### :briefcase: Work Experience
