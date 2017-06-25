@@ -1,7 +1,8 @@
-
+ <img src="pp.jpg" alt="Smiley face" height="180" width="145"> 
+ 
 [theofranquet@outlook.com](mailto:theofranquet@outlook.com) 
 
-[Curriculum Vitae](/CV.pdf)
+[Curriculum Vitae](/CV.pdf) & [LinkedIn](https://www.linkedin.com/in/theo-franquet-1b7097b3)
 
 
 I am currently an Electrical and Electronic Engineering (EEE) undergraduate student in Imperial College London, with big amitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
@@ -28,11 +29,49 @@ Repo is available here.
 
 ### :mortar_board: Education
 I am one year away of obtaining an Meng in EEE at Imperial College London. Recent courses taken (3rd year) belong to the fields of:
-- Power and Energy Systems
+- Electrical Energy Systems
+```
+Grid scale load flow analysis (Gauss-Seidel method...)
+Fault analysis (Single/Three phase system, Balanced/Unbalanced fault)
+```
 - Embedded Systems
+```
+Sensor to/from Microcontroller communication (I2C) and programming
+Sending/Receiving data to/from MQTT broker
+JSON message formatting
+Writing efficient and maintainable firmware
+Interupt based firmware (in C)
+Basic control algorithm implementation
+Scheduling and dependency analysis
+```
 - Artifical Intelligence & Machine Learning
-- Control Systems and Linear Algebra
+```
+AI:
+Declarative programming (Prolog)
+Search algorithms (e.g. two player games)
+Formal logic
+Knowledge representation and automated reasoning
 
+ML:
+Perceptron Learning Algorithm for handwritten digit classification
+Linear Regression
+Ridge Regression
+Gradient Descent
+Structural Risk Minimization
+Feature transformation
+Cross Validation
+SVMs
+PCA
+```
+- Control Systems and Linear Algebra
+```
+MIT's 18.06 Linear Algebra Class, lectured by Prof. Gilbert Strang
+State Space system representation
+System Trajectory, Motion, Equilibrium and Stability analysis
+Reachability and Controllability
+Observability and Reconstructability
+Design tools
+```
 
 ### :briefcase: Work Experience
 #### Semiconductors Industry
