@@ -13,9 +13,9 @@ I am currently an Electrical and Electronic Engineering (EEE) undergraduate stud
 
 ### :computer: Firmware & Software
 - Real time digital signal processing: Speech enhancement project
-- Embedded system using MQTT connectivity protocol: Connected greenhouse climate monitoring and control device (prototype)
+- Embedded system using MQTT connectivity protocol: Connected greenhouse climate monitoring and control device (prototype) [[Learn more](https://github.com/guigzzz/Embedded-Project)]
 - Embedded system for high precision motor control
-- Connected thermostat prototyping (Head of team of 7 students)
+- Connected thermostat prototyping (Head of team of 7 students)[[Learn more](http://www.ee.ic.ac.uk/theo.franquet14/yr2proj/main.html)]
 
 
 ### :mag: Research
@@ -24,7 +24,7 @@ I have undergone undergraduate research in the summer of 2016 at Imperial Colleg
 - Comparative study of various training methods for the application
 - Continuous time operation simulation of the ANN onboard a vehicle
 
-Repo is available here.
+Repo is available [here](https://github.com/TheoFranquet/UROP).
 
 
 ### :mortar_board: Education
