@@ -30,12 +30,14 @@ Repo is available here.
 ### :mortar_board: Education
 I am one year away of obtaining an Meng in EEE at Imperial College London. Recent courses taken (3rd year) belong to the fields of:
 - Electrical Energy Systems
+
 ```
 Grid scale load flow analysis (Gauss-Seidel method...)
 Fault analysis (Single/Three phase system, Balanced/Unbalanced fault)
 
 ```
 - Embedded Systems
+
 ```
 Sensor to/from Microcontroller communication (I2C) and programming
 Sending/Receiving data to/from MQTT broker
@@ -47,6 +49,7 @@ Scheduling and dependency analysis
 
 ```
 - Artifical Intelligence & Machine Learning
+
 ```
 AI:
 Declarative programming (Prolog)
@@ -67,6 +70,7 @@ PCA
 
 ```
 - Control Systems and Linear Algebra
+
 ```
 MIT's 18.06 Linear Algebra Class, lectured by Prof. Gilbert Strang
 State Space system representation
