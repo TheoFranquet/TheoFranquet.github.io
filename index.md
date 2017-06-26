@@ -10,12 +10,13 @@ I am currently an Electrical and Electronic Engineering (EEE) undergraduate stud
 
 ### :electric_plug: Hardware & Robotics
 -  Line following robot [[Learn more]()]
+- Connected thermostat prototyping (Head of team of 7 students)[[Learn more](http://www.ee.ic.ac.uk/theo.franquet14/yr2proj/main.html)]
+
 
 ### :computer: Firmware & Software
 - Real time digital signal processing: Speech enhancement project [[Learn more](https://github.com/TheoFranquet/RTDSP)]
 - Embedded system using MQTT connectivity protocol: Connected greenhouse climate monitoring and control device (prototype) [[Learn more](https://github.com/guigzzz/Embedded-Project)]
 - Embedded system for high precision motor control
-- Connected thermostat prototyping (Head of team of 7 students)[[Learn more](http://www.ee.ic.ac.uk/theo.franquet14/yr2proj/main.html)]
 
 
 ### :mag: Research
