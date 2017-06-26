@@ -5,7 +5,7 @@
 [Curriculum Vitae](/CV.pdf) & [LinkedIn](https://www.linkedin.com/in/theo-franquet-1b7097b3)
 
 
-I am currently an Electrical and Electronic Engineering (EEE) undergraduate student in Imperial College London, with big amitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
+I am currently an Electrical and Electronic Engineering (EEE) undergraduate student at Imperial College London, with big amitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
 
 
 ### :electric_plug: Hardware & Robotics
