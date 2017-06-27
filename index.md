@@ -9,7 +9,7 @@ I am currently an Electrical and Electronic Engineering (EEE) undergraduate stud
 
 
 ### :electric_plug: Hardware & Robotics
--  Line following robot [[Learn more](/page.md)]
+-  Line following robot [[Learn more]()]
 - Connected thermostat prototyping (Head of team of 7 students)[[Learn more](http://www.ee.ic.ac.uk/theo.franquet14/yr2proj/main.html)]
 
 
