@@ -10,7 +10,7 @@ I am currently an Electrical and Electronic Engineering (EEE) undergraduate stud
 
 ### :electric_plug: Hardware & Robotics
 -  Line following robot [[Learn more]()]
-- Connected thermostat prototyping (Head of team of 7 students)[[Learn more](/glow.md)]
+- Connected thermostat prototyping (Head of team of 7 students) [[Learn more](/glow.md)]
 
 
 ### :computer: Firmware & Software
@@ -22,8 +22,8 @@ I am currently an Electrical and Electronic Engineering (EEE) undergraduate stud
 ### :mag: Research
 I have undergone undergraduate research in the summer of 2016 at Imperial College London's Control and Power research group on future horizon velocity estimation using artifical neural networks:
 
-- Comparative study of various training methods for the application
-- Continuous time operation simulation of the ANN onboard a vehicle
+- Comparative study of various training methods for the application [[Learn more](/Report_v2.pdf.pdf)]
+- Continuous time operation simulation of the ANN onboard a vehicle [[Learn more](/untitled-23.pdf)]
 
 Repo is available [here](https://github.com/TheoFranquet/UROP).
 
