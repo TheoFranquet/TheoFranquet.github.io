@@ -22,8 +22,8 @@ I am currently an Electrical and Electronic Engineering (EEE) undergraduate stud
 ### :mag: Research
 I have undergone undergraduate research in the summer of 2016 at Imperial College London's Control and Power research group on future horizon velocity estimation using artifical neural networks:
 
-- Comparative study of various training methods for the application [[Learn more](/Report_v2.pdf.pdf)]
-- Continuous time operation simulation of the ANN onboard a vehicle [[Learn more](/untitled-23.pdf)]
+- Comparative study of various training methods for the application [[Paper](/Report_v2.pdf.pdf)]
+- Continuous time operation simulation of the ANN onboard a vehicle [[Paper](/untitled-23.pdf)]
 
 Repo is available [here](https://github.com/TheoFranquet/UROP).
 
