@@ -8,7 +8,7 @@
 I am currently an Electrical and Electronic Engineering (EEE) undergraduate student at Imperial College London, with big amitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
 My focus at this stage is aimed at embedded system design, power applications and machine learning.
 
-My main objectve as an engineer is to participate in making sure we secure a viable future for the generations to come. I mean it!
+My main objectve as an engineer is to participate improving quality of life for the people in need, while ensuring a viable future for the generations to come. I mean it!
 
 
 ### :electric_plug: Hardware & Robotics
