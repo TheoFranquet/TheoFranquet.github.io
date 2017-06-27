@@ -94,6 +94,6 @@ My industrial placement, undergone in liaison with Imperial College London, is s
 3. Firmware development for power critical application
 4. Battery state estimation algorithm R&D
 
-### :memo: Personal Writing 
+### :memo: Personal Writing  
 
 
