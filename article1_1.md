@@ -11,7 +11,7 @@ Personal experience led to believe that presidential campaigns (alongside all ot
 Fighting climate change is a pristine challenge for humanity: every country in the world is responsible and affected to a certain extent, consequences are extremely diverse with some still undiscovered and its long term nature involves a high level of uncertainty regarding key technological breakthroughs such as fossil fuel alternatives and even artificial intelligence. 
 It all seems like facing climate change would require an entirely new set of structures at different geopolitical levels, with each sub-element of the set in charge of dealing with certain issues. The radius of potential impact defines how high in the hierarchy the corresponding issue sits. Here is a vague illustration of how I see it:
 
-![image](/jjj.png)
+<img src="jjj.png" height="500" width="300" align="middle"> 
 
  ### Implication of governments
 
