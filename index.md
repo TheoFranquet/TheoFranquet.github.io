@@ -12,7 +12,7 @@ My main objectve as an engineer is to participate in improving quality of life f
 
 
 ### :electric_plug: Hardware & Robotics
--  Line following robot [[Learn more]()]
+-  Line following robot [[Learn more](/eebug.md)]
 - Connected thermostat prototyping (Head of team of 7 students) [[Learn more](/glow.md)]
 
 
