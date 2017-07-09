@@ -2,6 +2,8 @@
 
 ## Environmental commitment in politics
 
+ <img src="paris.jpg" height="300" width="450">
+ 
 Following the unsuccessful 2009 Copenhagen Conference, the 2015 Paris Climate Summit marked the very first agreement to be signed by all major world leaders on the issue of global warming, aiming to keep the temperature increase to under 2°C by providing sufficient resources to achieve this target. One year later, Donald J. Trump reached presidency of the US, promising his electors to abandon any effort to reduce the country’s environmental bearing. Soon enough the US opted out of the Paris accord in June 2017, 20 months after the Summit, inducing disdainful reactions from both the EU and China. This recent scenario illustrates the increasing stakes of environmental politics amongst global economic powers. How should it be interpreted by the public opinion?
 
 ### Growing environmental importance in political campaigns
@@ -22,3 +24,5 @@ An important debate taking place on a national and international scale is the di
 ### Conclusion
 
 There is no doubt that the environmental debate is gradually becoming a major player in modern day geopolitics, from national elections to international relations. Climate change is a global issue with almost no previous government having successfully solved the problem (exceptional Costa Rica!) in history. As a matter of fact, guaranteeing a durable environment for the generations ahead is probably the biggest challenge the world has ever come across to date. Politicians and governments are the most influential forces in transitioning away from non-renewables, yet the nature of political and economic structures and dynamics in most developed countries often tend to obstruct the execution end, even when scientific efforts are fruitful and long term stability of renewable energy is guaranteed.
+
+[Image Courtesy of [UNFCCC](https://www.flickr.com/photos/unfccc/sets/)]
