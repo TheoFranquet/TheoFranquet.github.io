@@ -22,7 +22,7 @@ My main objectve as an engineer is to participate in improving quality of life f
 
 
 ## :mag: Research
-I have undergone undergraduate research in the summer of 2016 at Imperial College London's Control and Power research group on future horizon velocity estimation using artifical neural networks [[Project Description](/UROP.md)]: 
+I have undergone undergraduate research in the summer of 2016 at Imperial College London's Control and Power research group on future horizon vehicle velocity estimation using artifical neural networks [[Project Description](/UROP.md)]: 
 
 - Comparative study of various training methods for the application [[Paper](/Report_v2.pdf)]
 - Continuous time operation simulation of the ANN onboard a vehicle [[Paper](/untitled-23.pdf)]
