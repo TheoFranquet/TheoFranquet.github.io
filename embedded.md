@@ -6,6 +6,6 @@ This 3rd year project focused on mastering elementary microcontroller programmin
 
  <img src="mbed.jpg" alt="Smiley face" height="200" width="350">  
 
-This project is developed in python. It involves establishing I2C communication with two simple adafruit sensors, and JSON message formatting for communication with the MQTT broker. The broker is also subsribed to the user's device, where climate parameters can be customized. The code used is available on this [github repo](https://github.com/guigzzz/Embedded-Project).
+Programming was done in python. It involves establishing I2C communication with two simple adafruit sensors, and JSON message formatting for communication with the MQTT broker. The broker is also subsribed to the user's device, where climate parameters can be customized. The code used is available on this [github repo](https://github.com/guigzzz/Embedded-Project).
 
  <img src="st.jpg" alt="Smiley face" height="200" width="280">  
