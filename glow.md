@@ -3,6 +3,7 @@
 # Smart Thermostat Project: GLOW
 
  <img src="glow.jpg" height="400" width="450"> 
+
 [Visit our website!](http://www.ee.ic.ac.uk/theo.franquet14/yr2proj/default.htm)
 
 ## Context
