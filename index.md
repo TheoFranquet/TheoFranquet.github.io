@@ -86,11 +86,11 @@ Design tools
 
  <img src="stlogo.jpg" height="55" width="90">  
 
-I have worked 3 months at *ST Microelectronics Singapore* over the summer of 2015, my work there involved:
+I have worked for 3 months for *ST Microelectronics Singapore* over the summer of 2015, my work there involved:
 
-1. Manufacturing of Bipolar Devices 
+1. Manufacturing Engineering of Bipolar Devices 
 2. Manual device failure analysis
-3. Training material creation
+3. Training material redacting
 
 ### Renewables & Energy Storage Industry
 
