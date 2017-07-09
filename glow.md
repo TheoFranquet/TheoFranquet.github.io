@@ -21,4 +21,4 @@ The project also involved work in:
 - Thermal science research: one funcitonality, aiming at monitoring and predicting cash spending of the user based on his heating/cooling programm, required some thermal research to take all kinds of energy losses into account. One student was in charge of the task.
 - 3D printed enclosure: The electronics were utlimately enclosed in a custom 3D printed case to reach the MVP we had imagined on day 1.
 
-[Visit our website!](http://www.ee.ic.ac.uk/theo.franquet14/yr2proj/default.htm)
+## [Visit our website!](http://www.ee.ic.ac.uk/theo.franquet14/yr2proj/default.htm)
