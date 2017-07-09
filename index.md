@@ -1,6 +1,4 @@
- <img src="pp.jpg" alt="Smiley face" height="180" width="145"> 
- 
-[theofranquet@outlook.com](mailto:theofranquet@outlook.com) 
+ <img src="pp.jpg" alt="Smiley face" height="180" width="145">  
 
 [Curriculum Vitae](/CV.pdf) & [LinkedIn](https://www.linkedin.com/in/theo-franquet-1b7097b3)
 
