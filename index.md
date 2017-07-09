@@ -83,6 +83,9 @@ Design tools
 
 ## :briefcase: Work Experience
 ### Semiconductors Industry
+
+ <img src="stlogo.jpg" height="50" width="90">  
+
 I have worked 3 months at *ST Microelectronics Singapore* over the summer of 2015, my work there involved:
 
 1. Manufacturing of Bipolar Devices 
@@ -90,6 +93,9 @@ I have worked 3 months at *ST Microelectronics Singapore* over the summer of 201
 3. Training material creation
 
 ### Renewables & Energy Storage Industry
+
+ <img src="natron.jpg" height="90" width="90">  
+
 My industrial placement, undergone in liaison with Imperial College London, is spent working for 6 months at *Natron Energy* (formerly Alveo Energy), in Santa Clara, CA. Natron Energy is a battery start up introducing revolutionary low cost energy storage solutions using a new cell technology based on inexpensive Prussian blue analogue electrodes and a sodium-ion electrolyte. My work here includes:
 
 1. Integral Battery Management System (BMS) development for UPS application
