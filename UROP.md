@@ -2,7 +2,7 @@
 
 ## Undergraduate Research: Future Horizon Vehicle Velocity Estimation Using Artificial Neural Networks
 
-My six weeks of research in the Control and Power Reasearch group at Imperial College was done under supervision of Dr. Simos Evangelou. I have been working on expanding a project that had already started the same year, on Future Horizon Vehicle Velocity Estimation using Artificial Neural Networks. The development and implementation of the Network itself were done on MATLAB by an ex-master's student: Johan Tillmar. The network is briefly described in the reports available and illustrated below: 
+My six weeks of research in the Control and Power Reasearch group at Imperial College were done under supervision of Dr. Simos Evangelou. I have been working on expanding a project that had already started the same year, on Future Horizon Vehicle Velocity Estimation using Artificial Neural Networks. The development and implementation of the Network itself were done on MATLAB by an ex-master's student: Johan Tillmar. The network is briefly described in the reports available and illustrated below: 
 
  <img src="Network1.jpg" height="350" width="500"> 
 
