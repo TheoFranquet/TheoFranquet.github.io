@@ -84,7 +84,7 @@ Design tools
 ## :briefcase: Work Experience
 ### Semiconductors Industry
 
- <img src="stlogo.jpg" height="50" width="90">  
+ <img src="stlogo.jpg" height="55" width="90">  
 
 I have worked 3 months at *ST Microelectronics Singapore* over the summer of 2015, my work there involved:
 
