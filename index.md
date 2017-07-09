@@ -88,7 +88,7 @@ Design tools
 
 I have worked for 3 months for *ST Microelectronics Singapore* over the summer of 2015, my work there involved:
 
-1. Manufacturing Engineering of Bipolar Devices 
+1. Manufacturing Engineering for Bipolar Devices 
 2. Manual device failure analysis
 3. Training material redacting
 
