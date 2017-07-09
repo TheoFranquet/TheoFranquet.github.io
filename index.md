@@ -30,6 +30,7 @@ Repo is available [here](https://github.com/TheoFranquet/UROP).
 
 ## :mortar_board: Education
 I am one year away of obtaining an Meng in EEE at Imperial College London. Recent courses taken (3rd year) belong to the fields of:
+
 **- Electrical Energy Systems**
 
 ```
