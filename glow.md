@@ -4,8 +4,6 @@
 
  <img src="glow.jpg" height="400" width="450"> 
 
-[Visit our website!](http://www.ee.ic.ac.uk/theo.franquet14/yr2proj/default.htm)
-
 ## Context
 This innitiative was part of the 2nd Year project at Imperial College (IC). The idea of working on a smart thermostat prototype was submitted by two other students and myself. Another 4 students also joined the team, attracted by the project idea. My motivation to work on such product came from observing common household thermostats unable to cope with the important transformations affecting global and local energy production, distribution and consumption. Other products have and are currently being worked on by a few companies, but the idea for us was to offer a unique personalised experience to to the user, relying on social and economic principles to save energy. 
 
@@ -22,3 +20,5 @@ The project also involved work in:
 - Social science research: one student was in charge of gathering all relevant information on how to effectively impact public opinion and push them to save energy. This information was then mapped to real features that the thermostat would offer to the user.
 - Thermal science research: one funcitonality, aiming at monitoring and predicting cash spending of the user based on his heating/cooling programm, required some thermal research to take all kinds of energy losses into account. One student was in charge of the task.
 - 3D printed enclosure: The electronics were utlimately enclosed in a custom 3D printed case to reach the MVP we had imagined on day 1.
+
+[Visit our website!](http://www.ee.ic.ac.uk/theo.franquet14/yr2proj/default.htm)
