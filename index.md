@@ -17,7 +17,7 @@ My main objectve as an engineer is to participate in improving quality of life f
 
 
 ## :computer: Firmware & Software
-- Real time digital signal processing: Speech enhancement project [[Learn more](https://github.com/TheoFranquet/RTDSP)]
+- Real time digital signal processing: Speech enhancement project [[Learn more](/RTDSP.md)]
 - Embedded system using MQTT connectivity protocol: Connected greenhouse climate monitoring and control device (prototype) [[Learn more](https://github.com/guigzzz/Embedded-Project)]
 
 
