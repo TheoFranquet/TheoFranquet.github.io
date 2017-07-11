@@ -15,7 +15,7 @@ These few weeks have really helped me progress in planning and rigor working in 
 
 ### Reference:
 
-A [reference letter](/00001.jpg) has been written by Dr. Simos Evangelou on my research experience.
+A [reference letter](/00001.pdf) has been written by Dr. Simos Evangelou on my research experience.
 
 ### Reports:
 - Comparative study of various training methods for the application [[Paper](/Report_v2.pdf)]
