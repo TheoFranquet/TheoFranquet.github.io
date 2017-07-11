@@ -73,7 +73,7 @@ PCA
 **- Control Systems and Linear Algebra**
 
 ```
-MIT's 18.06 Linear Algebra Class, lectured by Prof. Gilbert Strang
+Linear Algebra (complete MIT 18.06 content)
 State Space system representation
 System Trajectory, Motion, Equilibrium and Stability analysis
 Reachability and Controllability
