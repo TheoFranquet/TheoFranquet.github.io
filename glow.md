@@ -2,7 +2,7 @@
 
 # Smart Thermostat Project: GLOW
 
- <img src="glow.jpg" height="360" width="450"> 
+ <img src="glow.jpg" height="370" width="450"> 
 
 ## Context
 This innitiative was part of the 2nd Year project at Imperial College (IC). The idea of working on a smart thermostat prototype was submitted by two other students and myself. Another 4 students also joined the team, attracted by the project idea. My motivation to work on such product came from observing common household thermostats unable to cope with the important transformations affecting global and local energy production, distribution and consumption. Other products have and are currently being worked on by a few real companies, but the idea for us was to offer a unique personalised experience to to the user, relying on social and economic principles to save energy. 
