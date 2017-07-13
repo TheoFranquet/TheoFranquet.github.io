@@ -7,7 +7,7 @@ My six weeks of research in the Control and Power Reasearch group at Imperial Co
  <img src="Network1.jpg" height="350" width="500"> 
 
 ANN design and training were done without using MATLAB's machine learning functions.
-My work was split into two sections: Training Method Testing (Analysis work) and Real-time ANN Operation Simulation (Programming). 
+My work was split into two sections: Training Method Selection (Analysis work) and Real-time ANN Operation Simulation (Programming). 
 The first sub-project helped me get familiar with the network and ANNs in general (in a MATLAB environment). More specifically, my role was to identify and compare two ANN training methods (Standard Back Propagation algorithm & Levenberg–Marquardt algorithm) in terms of accuracy, speed, computational requirements etc. 
 The second part of my summer research was focusing on simulating ANN operation on-board a moving vehicle. The ANN which was given to me had only been trained and tested on a given 100+ second drive cycle dataset. This would be considered off-line training, as opposed to online training which was our objective developing this ANN. My role here was to write MATLAB code to train and test the ANN continuously using incoming sensor data, simulating the self-learning behaviour of the system during driving. The script involved dataset sectioning, training/testing scheduling and parameter selection (for reasonable training time/output accuracy balance).
 
