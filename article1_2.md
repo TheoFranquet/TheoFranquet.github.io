@@ -5,8 +5,8 @@
  <img src="planet.jpg" height="300" width="450">
  
  The press in developed countries is undergoing unprecedented transformations in many aspects. Production and distribution strategies have been disrupted by the ever-changing technologies adopted by their readers. This has enabled press and media in general to re-shape their content to better address their target audience which is itself growing in diversity. News relating to the environment have recently become a topic of significant (although not major) interest for both writers and consumers in most developed countries. I have mentioned in the previous article that governments have the upper hand when it comes to executing transition to reducing emissions, something I still stand by, although the importance of press is also not to be undermined. This time around, we will be reviewing the role of press and media in affecting public opinion on environmental issues. 
-Smartphone ownership is getting close to saturation in most developed countries, appealing to all ages and backgrounds. Significant research has been done on the changing behavior of readers.
 
+Smartphone ownership is getting close to saturation in most developed countries, appealing to all ages and backgrounds. Significant research has been done on the changing behavior of readers.
 The number of readers is subject to overall increase thanks to the internet and 89% of smartphone users consume press over the internet on their phone in the US [Nielsen, Sept 2015]. When it comes to environmental articles, their presence in news platform has slightly increased in the past decade. A study by the guardian on their hundred most popular articles between 2010 and 2014 has pointed out that two of the guardian’s 100 most popular articles write about environmental issues. Similarly sports and culture oriented topics also have two articles in this top 100, dominated by International news articles (34%).
 
 ### Reach and popular topics
@@ -16,7 +16,7 @@ A few environmental issues are regularly being covered by press while others are
 ### Presence in social media
 
 Coming back to the increasing number of readers coming from internet expansion, it should also be noted that most readers use social media to consume news and media in general. This is central as news on social media completely altered how they are formulated. Articles are reduced to a title and an image or short video as consumers look to spend a minimum amount of time on each element available on their feed (twitter, facebook etc.). The obvious example is Twitter. For me Twitter has completely revolutionized the press landscape with quick and short news headlines on any topic, courtesy of the reader. Although this kind of distribution does have some positive aspects (quick, user can choose his sources, overcoming media censorship etc.) quality of news seems to be gradually degrading. News channels are looking to gather disproportionate reactions and interest from social media’s “fast readers” in order to forge their income and tend to produce and distribute news as often as possible, using somewhat shocking or exaggerating phrases as article titles, following the latest topic trends. Alongside all other news, professional environmental news coverage suffers from this model. One advantage using social media as a news platform however, is the mass sharing of small scale initiatives and news being made in the environmental sector notably. This type of content is too insignificant to be covered by large news agencies, but manage to surface user social media feeds thanks to recommendation based content for example.
-Media references and “expert studies”
+
 
 ### Sourcing scientific information
 
