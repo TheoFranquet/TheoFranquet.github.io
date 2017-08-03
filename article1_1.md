@@ -1,5 +1,7 @@
 [Take me back to the homepage!](/index.md)
 
+### June 2017
+
 ## Environmental commitment in politics
 
  <img src="paris.jpg" height="300" width="450">
