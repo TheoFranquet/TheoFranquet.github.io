@@ -8,7 +8,7 @@
 I am currently an Electrical and Electronic Engineering (EEE) undergraduate student at Imperial College London, with big ambitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
 My focus at this stage is aimed at embedded system design, power applications and machine learning.
 
-My main objectve as an engineer is to participate in improving quality of life for the people in need, while ensuring a viable future for the generations to come. I mean it!
+My main objective as an engineer is to participate in improving quality of life for the people in need, while ensuring a viable future for the generations to come. I mean it!
 
 
 ## :electric_plug: Hardware & Robotics
@@ -22,7 +22,7 @@ My main objectve as an engineer is to participate in improving quality of life f
 
 
 ## :mag: Research
-I have undergone undergraduate research in the summer of 2016 at Imperial College London's Control and Power research group on future horizon vehicle velocity estimation using artifical neural networks [[Project Description](/UROP.md)]: 
+I have undergone undergraduate research in the summer of 2016 at Imperial College London's Control and Power research group on future horizon vehicle velocity estimation using artificial neural networks [[Project Description](/UROP.md)]: 
 
 - Comparative study of various training methods for the application [[Paper](/Report_v2.pdf)]
 - Continuous time operation simulation of the ANN onboard a vehicle [[Paper](/untitled-23.pdf)]
@@ -46,7 +46,7 @@ Sensor to/from Microcontroller communication (I2C) and programming
 Sending/Receiving data to/from MQTT broker
 JSON message formatting
 Writing efficient and maintainable firmware
-Interupt based firmware (in C)
+Interrupt based firmware (in C)
 Basic control algorithm implementation
 Scheduling and dependency analysis
 ```
