@@ -2,7 +2,7 @@
 
 ## Real Time Speech Enhacement Project
 
-This project aimed at implementing real time digital signal processing routines and algorithms for audio processing. The program is able to take a noisy audio recording as an input while instantly outputing the same recording damping the surrounding noise to isolate human voice recording. This technology is already being used in everyday telephone communications.
+This project aimed at implementing real time digital signal processing routines and algorithms for audio processing. The program is able to take a noisy audio recording as an input while instantly returning the same recording damping the surrounding noise to isolate human voice recording. This technology is already being used in everyday telephone communications.
 
 
  <img src="rtdsp.JPG" height="80" width="300">  
