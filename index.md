@@ -109,7 +109,7 @@ My industrial placement, undergone in liaison with Imperial College London, is s
 A mix of curiosity and ambition towards the transition to sustainable energy production and management in today’s society has led me to start writing a collection of 3 short articles on the topic of renewable energy integration and dynamics in the non-scientific world. A lot of technological ground has been covered in the sector of fossil fuel alternatives. However, it is only now that those technologies are starting to attract major interest of governments, research groups and financial investments thanks to an increasing combination of mainstream environmental concern, technology affordability and scientific advances. These three articles will give an insight on the political, mediatic and financial facets of the matter.
 
 - Environmental commitment in politics [[Read](https://medium.com/@tfranquet852/environmental-commitment-in-politics-681a2bc3c5ef)]
-- The role of press in public environmental awareness [[Read]()]
+- The role of press in public environmental awareness [[Read](https://medium.com/@tfranquet852/the-role-of-press-in-public-environmental-awareness-bca2598afa5a)]
 - Environmental effort and economic prosperity [Under Construction]
 
 
