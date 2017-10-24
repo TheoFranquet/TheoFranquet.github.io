@@ -81,6 +81,8 @@ Observability and Reconstructability
 Design tools
 ```
 
+My fourth year focuses on Optimisation, Machine Learning and Sustainable Energy Systems.
+
 ## :briefcase: Work Experience
 ### Semiconductors Industry
 
@@ -96,7 +98,7 @@ I have worked for 3 months for *ST Microelectronics Singapore* over the summer o
 
  <img src="natron.jpg" height="90" width="90">  
 
-My industrial placement, undergone in liaison with Imperial College London, is spent working for 6 months at *Natron Energy* (formerly Alveo Energy), in Santa Clara, CA. Natron Energy is a battery start up introducing revolutionary low cost energy storage solutions using a new cell technology based on inexpensive Prussian blue analogue electrodes and a sodium-ion electrolyte. My work here includes:
+My industrial placement, undergone in liaison with Imperial College London, was spent working for 6 months at *Natron Energy* (formerly Alveo Energy), in Santa Clara, CA. Natron Energy is a battery start up introducing revolutionary low cost energy storage solutions using a new cell technology based on inexpensive Prussian blue analogue electrodes and a sodium-ion electrolyte. My work here includes:
 
 - Integral Battery Management System (BMS) development for UPS application
 - Altium PCB design & debugging
