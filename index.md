@@ -112,7 +112,7 @@ A mix of curiosity and ambition towards the transition to sustainable energy pro
 
 - Environmental commitment in politics [[Read](https://medium.com/@tfranquet852/environmental-commitment-in-politics-681a2bc3c5ef)]
 - The role of press in public environmental awareness [[Read](https://medium.com/@tfranquet852/the-role-of-press-in-public-environmental-awareness-bca2598afa5a)]
-- Environmental effort and economic prosperity [Under Construction]
+- Environmental effort and economic prosperity [[Read](https://medium.com/@tfranquet852/financial-investments-in-the-world-of-low-carbon-energy-318e8a6ef911)]
 
 
 
