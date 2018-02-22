@@ -6,7 +6,6 @@
 
 
 I am currently an Electrical and Electronic Engineering (EEE) undergraduate student at Imperial College London, with big ambitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
-My focus at this stage is aimed at sustainable energy systems applications and machine learning.
 
 My main objective as an engineer is to participate in improving quality of life for the people in need, while ensuring a viable future for the generations to come. I mean it!
 
@@ -31,13 +30,15 @@ Repo is available [here](https://github.com/TheoFranquet/UROP).
 
 
 ## :mortar_board: Education
-I am one year away of obtaining an Meng in EEE at Imperial College London. Recent courses taken (3rd year) belong to the fields of:
+I am one year away of obtaining an Meng in EEE at Imperial College London. Recent courses taken (3rd/4th year) belong to the fields of:
 
 **- Electrical Energy Systems**
 
 ```
 Grid scale load flow analysis (Gauss-Seidel method...)
 Fault analysis (Single/Three phase system, Balanced/Unbalanced fault)
+Electrical Energy Markets
+Wind/Solar/Microgrid Systems
 ```
 **- Embedded Systems**
 
@@ -69,6 +70,8 @@ Feature transformation
 Cross Validation
 SVMs
 PCA
+Neural Networks
+Random Forests
 ```
 **- Control Systems and Linear Algebra**
 
@@ -79,9 +82,8 @@ System Trajectory, Motion, Equilibrium and Stability analysis
 Reachability and Controllability
 Observability and Reconstructability
 Design tools
+Optimization Algorithmics
 ```
-
-My fourth year focuses on Optimisation, Machine Learning and Sustainable Energy Systems.
 
 ## :briefcase: Work Experience
 ### Semiconductors Industry
