@@ -25,6 +25,16 @@ I have undergone undergraduate research in the summer of 2016 at Imperial Colleg
 
 Repo is available [here](https://github.com/TheoFranquet/UROP).
 
+My final year thesis delves into the integration of large-scale energy storage systems into modern energy market structures. More specifically, the paper proposes an optimal bidding strategy model for battery storage with the consideration of life-time degradation [[Paper](/Report_v2.pdf)]
+
+The project was supervised by Dr Fei Teng, EEE Department, Imperial College London.
+
+Key words and resources:
+- Ancillary services
+- Battery chemistry
+- Aging cost model
+- Optimization
+- Python Programming
 
 ## :mortar_board: Education
 I am a recent EEE graduate from Imperial College London. Recent courses and areas of interests belong to the fields of:
