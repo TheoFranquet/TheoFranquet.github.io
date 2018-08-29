@@ -7,9 +7,6 @@
 
 I am currently an Electrical and Electronic Engineering (EEE) undergraduate student at Imperial College London, with big ambitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
 
-My main objective as an engineer is to participate in improving quality of life for the people in need, while ensuring a viable future for the generations to come. I mean it!
-
-
 ## :electric_plug: Hardware & Robotics
 -  Line following robot [[Learn more](/eebug.md)]
 - Connected thermostat prototyping (Head of team of 7 students) [[Learn more](/glow.md)]
