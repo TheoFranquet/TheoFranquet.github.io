@@ -27,27 +27,8 @@ Repo is available [here](https://github.com/TheoFranquet/UROP).
 
 
 ## :mortar_board: Education
-I am one year away of obtaining an Meng in EEE at Imperial College London. Recent courses taken (3rd/4th year) belong to the fields of:
+I am a recent EEE graduate from Imperial College London. Recent courses and areas of interests belong to the fields of:
 
-**- Electrical Energy Systems**
-
-```
-Grid scale load flow analysis (Gauss-Seidel method...)
-Fault analysis (Single/Three phase system, Balanced/Unbalanced fault)
-Electrical Energy Markets
-Wind/Solar/Microgrid Systems
-```
-**- Embedded Systems**
-
-```
-Sensor to/from Microcontroller communication (I2C) and programming
-Sending/Receiving data to/from MQTT broker
-JSON message formatting
-Writing efficient and maintainable firmware
-Interrupt based firmware (in C)
-Basic control algorithm implementation
-Scheduling and dependency analysis
-```
 **- Artifical Intelligence & Machine Learning**
 
 ```
@@ -58,17 +39,15 @@ Formal logic
 Knowledge representation and automated reasoning
 
 ML:
-Perceptron Learning Algorithm for handwritten digit classification
 Linear Regression
-Ridge Regression
 Gradient Descent
-Structural Risk Minimization
 Feature transformation
 Cross Validation
 SVMs
 PCA
 Neural Networks
 Random Forests
+Image Classification
 ```
 **- Control Systems and Linear Algebra**
 
@@ -80,6 +59,14 @@ Reachability and Controllability
 Observability and Reconstructability
 Design tools
 Optimization Algorithmics
+```
+**- Electrical Energy Systems**
+
+```
+Grid scale load flow analysis (Gauss-Seidel method...)
+Fault analysis (Single/Three phase system, Balanced/Unbalanced fault)
+Electrical Energy Markets
+Wind/Solar/Microgrid Systems
 ```
 
 ## :briefcase: Work Experience
