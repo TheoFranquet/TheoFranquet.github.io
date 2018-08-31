@@ -19,12 +19,7 @@ My final year thesis delves into the integration of large-scale energy storage s
 
 The project was supervised by Dr Fei Teng, EEE Department, Imperial College London.
 
-Key words and resources:
-- Ancillary services
-- Battery chemistry
-- Aging cost model
-- Optimization
-- Python Programming
+Key words and resources: *Ancillary services, Battery chemistry, Aging cost model, Optimization, Python programming*
 
 
 ## :mortar_board: Education
