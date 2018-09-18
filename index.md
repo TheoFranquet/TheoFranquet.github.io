@@ -5,7 +5,7 @@
 [Email](mailto:theofranquet@outlook.com)
 
 
-I am currently an Electrical and Electronic Engineering (EEE) undergraduate student at Imperial College London, with big ambitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
+I am a recent Electrical and Electronic Engineering (EEE) graduate from Imperial College London, with big ambitions to work on challenging and meaningful projects through various applications in my field. I invite you to explore the rest of this page to learn more about some of my works in the past few years and read on my technical educational background.
 
 ## :mag: Research
 I have undergone undergraduate research in the summer of 2016 at Imperial College London's Control and Power research group on future horizon vehicle velocity estimation using artificial neural networks [[Project Description](/UROP.md)]: 
